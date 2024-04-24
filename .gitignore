@@ -1,0 +1,11 @@
+xsim.dir
+*.log
+*.jou
+_snap
+*.wdb
+*.pb
+*.dcp
+*.str
+.Xil
+.dcp
+reports
