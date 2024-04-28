@@ -1,6 +1,9 @@
 # Generating a template project
+(tested on Vivado 2023.3 with verilog and xc7s15ftgb196)
 
-1. Edit generate.sh and edit those variables:
+1. ``source //Xilinx/Vivado/2023.x/settings64.sh`` - replace this path with your actual Vivado installation path
+
+2. Edit generate.sh and edit those variables:
 
 ```bash
 # part name e.g.: xc7s15ftgb196-1
