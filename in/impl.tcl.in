@@ -1,4 +1,4 @@
-[catch {exec nproc) max_threads]
+[catch {exec nproc} max_threads]
 
 set_param general.maxThreads \$max_threads
 open_checkpoint post_synth.dcp
